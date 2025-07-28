@@ -10,6 +10,6 @@ if(result>0){
     console.log("sum is positive")
 }
 else{
-    console.log("sum is negative")
+    console.log("sum is negative here")
 }
 
