@@ -1,5 +1,9 @@
 li{
     padding:3px;
-    margin:11px
+}
+
+ul{
+    box-sizing: border-box;
+    margin:6px;
 }
 
