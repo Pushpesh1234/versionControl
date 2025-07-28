@@ -13,3 +13,7 @@ else{
     console.log("sum is negative now")
 }
 
+function sub(a,b){
+    console.log(a+b)
+}
+ sub(5,6)
